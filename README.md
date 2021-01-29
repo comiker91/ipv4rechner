@@ -8,7 +8,11 @@ Dieses Pip stellt euch eine Klasse zur verfügung welche euch die IP umrechnen k
 
 ## Nutzung
 
-Um die Umrechenfunktionen nutzen zu können, musst du einfach nur from IPv4 import IPv4 machen.
+Um die Umrechenfunktionen nutzen zu können, musst du einfach nur:
+
+    from IPv4Rechner import * 
+    
+machen.
 
 Eine Ip adresse wird dem Rechner nun so Übergeben:
 
@@ -58,7 +62,7 @@ Gibt die Letzte IP Adresse des Hostnetzwerkes zurück
 
 ## Bekannte Fehler
 
-Aktuell sind keine Fehler bekannt. Sollten fehler auftreten erstelle bitte ein [Issuse auf GitHub](https://github.com/comiker91 "Issuse melden")
+Aktuell sind keine Fehler bekannt. Sollten fehler auftreten erstelle bitte ein [Issuse auf GitHub](https://github.com/comiker91/ipv4rechner/issues "Issuse melden")
 
 ## Version
 

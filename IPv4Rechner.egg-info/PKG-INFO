@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: IPv4Rechner
-Version: 1.1
+Version: 0.1.3
 Summary: Paket zum Berechnen von IPv4 Adressen.
 Home-page: https://github.com/comiker91
 Author: comiker91
@@ -16,7 +16,11 @@ Description: # IPv4 Umrechner Pip
         
         ## Nutzung
         
-        Um die Umrechenfunktionen nutzen zu können, musst du einfach nur from IPv4 import IPv4 machen.
+        Um die Umrechenfunktionen nutzen zu können, musst du einfach nur:
+        
+            from IPv4Rechner import * 
+            
+        machen.
         
         Eine Ip adresse wird dem Rechner nun so Übergeben:
         
@@ -66,7 +70,7 @@ Description: # IPv4 Umrechner Pip
         
         ## Bekannte Fehler
         
-        Aktuell sind keine Fehler bekannt. Sollten fehler auftreten erstelle bitte ein [Issuse auf GitHub](https://github.com/comiker91 "Issuse melden")
+        Aktuell sind keine Fehler bekannt. Sollten fehler auftreten erstelle bitte ein [Issuse auf GitHub](https://github.com/comiker91/ipv4rechner/issues "Issuse melden")
         
         ## Version
         

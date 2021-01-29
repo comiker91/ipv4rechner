@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="IPv4Rechner",
-    version="1.1",
+    version="1.0",
     author="comiker91",
     author_email="webmaster@nightmaremc.de",
     description="Paket zum Berechnen von IPv4 Adressen.",
