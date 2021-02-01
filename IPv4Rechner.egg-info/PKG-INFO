@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: IPv4Rechner
-Version: 1.0
+Version: 1.1
 Summary: Paket zum Berechnen von IPv4 Adressen.
 Home-page: https://github.com/comiker91
 Author: comiker91
@@ -74,7 +74,12 @@ Description: # IPv4 Umrechner Pip
         
         ## Version
         
-        Version 1.0
+        Version 1.1
+        
+        ## Updates
+        
+        Einführung der Überprüfung von der IP. Dadurch ist es nicht mehr möglich höhere IP als 255 einzugeben.
+        Einführung der Überprüfung von der CIDR. Es ist nur noch Möglich zwischen 8 und 30 die Netze zu berechnen.
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

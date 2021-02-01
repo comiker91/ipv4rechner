@@ -66,4 +66,9 @@ Aktuell sind keine Fehler bekannt. Sollten fehler auftreten erstelle bitte ein [
 
 ## Version
 
-Version 1.0
+Version 1.1
+
+## Updates
+
+Einführung der Überprüfung von der IP. Dadurch ist es nicht mehr möglich höhere IP als 255 einzugeben.
+Einführung der Überprüfung von der CIDR. Es ist nur noch Möglich zwischen 8 und 30 die Netze zu berechnen.
